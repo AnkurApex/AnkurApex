@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am Ankur Singh, a Software Engineering student passionate about building efficient software systems and exploring data-driven technologies. I enjoy working with Python and modern development tools to create practical projects and learn how real-world systems are designed and optimized.
 
-My interests lie in Data Analytics, Machine Learning, and Backend Development. I like experimenting with algorithms, automation, and problem-solving to better understand how scalable software and intelligent systems work.
+My interests lie in Data Analytics, Machine Learning, and Backend Development. I like experimenting with algorithms, automation, and problem-solving to understand better how scalable software and intelligent systems work.
 
 Backend & Core Languages: Python, Java, HTML, JavaScript
 Technologies & Tools: Git/GitHub, SQL, Data Analysis, Machine Learning  
