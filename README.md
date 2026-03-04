@@ -25,6 +25,4 @@ Interests: Data Analytics, AI/ML, Software Development, System Design
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ankur80041?theme=dark&font=Nunito&ext=heatmap)
 
-![LeetCode Contest](https://leetcard.jacoblin.cool/Ankur80041?theme=dark&font=Nunito&ext=contest)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
